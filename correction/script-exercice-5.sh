@@ -16,8 +16,16 @@ cd TP2
 if [ ! $(date +%Y%m%d) ]
   mkdir $(date +%Y%m%d) 
 fi 
+
 mv ../Exo3/* $(date +%Y%m%d)
 
 touch $HOME/Gros_fichier.numero_du_shell $HOME/Nom_du_script.numero_du_shell 
 
 cat $(date +%Y%m%d)/* >> $HOME/Gros_fichier.numero_du_shell
+
+echo '-----------------------------------------------------------'
+echo 'Liste des fichiers accessibles en lecture dans /etc'
+
+
+find /etc/ -type f -perm /444 -ls 2>/dev/null
+
