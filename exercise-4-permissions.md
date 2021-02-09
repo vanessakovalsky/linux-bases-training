@@ -21,11 +21,12 @@ Cet exercice a pour objectifs :
 * Créez un répertoire droit_rep dans votre répertoire d’accueil, et un fichier droit dans le sous-répertoire droit_rep.
 * Le tableau suivant donne les droits d’accès que l’on veut avoir pour le répertoire droit_rep.
 
-|   Commande | lecture | écriture | exécution 
-| commande 1 | oui | oui | oui 
-| commande 2 | non | non | non  
-| commande 3 | oui | non | non  
-| commande 4 | non | non | oui  
+|   Commande | lecture | écriture | exécution |
+|---|---|---|---|---|
+| commande 1 | oui | oui | oui |
+| commande 2 | non | non | non |
+| commande 3 | oui | non | non |
+| commande 4 | non | non | oui |
 
 * Quelles sont les 4 commandes correspondantes à taper ?
 * Après l’exécution de chacune des 4 commandes, essayez d’aller dans le répertoire droit_rep, essayez d’obtenir le contenu de ce répertoire et essayez de modifier le fichier droit. Expliquez ce qu’il se passe pour chacune des 4 commandes.
