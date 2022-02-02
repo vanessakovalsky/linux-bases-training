@@ -1,3 +1,4 @@
+#/bin/sh 
 echo 'Trouver un fichier avec find'
 
 cd $HOME

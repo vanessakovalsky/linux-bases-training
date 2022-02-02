@@ -12,13 +12,13 @@ tar -xzvf monrep.tar.gz
 
 echo "Script de sauvegarde"
 
-tar -czvf $(date +%d-%m-%Y).tar.gz $HOME/
+tar -czvf $(date +%d-%m-%Y).tar.gz $HOME/Documents/formation/linux-bases-training/
 
-if [ ! -d /var/backup ]; then
-  mkdir /var/backup
+if test ! -d /var/backup ]; then
+  sudo mkdir /var/backup
   echo 'création du répertoire /var/backup'
 fi
 
-mv $(date +%d-%m-%Y).tar.gz /var/backup/$(date +%d-%m-%Y).tar.gz 
+sudo mv $(date +%d-%m-%Y).tar.gz /var/backup/$(date +%d-%m-%Y).tar.gz
 
-find /var/backup/ -type f -mtime +7 -name '*.gz' -execdir rm -- '{}' \;
+sudo find /var/backup/ -type f -mtime +7 -name '*.gz*' -execdir rm -- '{}' \;
