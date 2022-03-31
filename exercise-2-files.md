@@ -4,8 +4,11 @@
 ## Création de répertoire et déplacement
 
 Le système de fichier UNIX est organis e selon une arborescence dont la racine est ”/”. 
+
 Le repertoire d’accueil (home directory) est le repertoire dans lequel on setrouve au d́ebut. Il est noté ∼. Par exemple, la commande cd∼ ramène dans le repertoire d’accueil.
+
 Le repertoire courant est celui dans lequel on se trouve à un moment donné. 
+
 * Créez dans votre répertoire d’accueil un répertoire rep
 * Quelle est la commande à utiliser ?
 * Allez dans ce sous-répertoire
