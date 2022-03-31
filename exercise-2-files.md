@@ -13,7 +13,7 @@ Le repertoire courant est celui dans lequel on se trouve à un moment donné.
 
 ## Liste, copie et déplacement de fichiers 
 * En utilisant la commande ls -l, affichez la liste des fichiers du répertoire rep avec les détails.
-* En utilisant la commande ls et une de ses options, affichez la liste des fichiers qui commencentaussi par ”.”
+* En utilisant la commande ls et une de ses options, affichez la liste des fichiers qui commencent aussi par ”.”
 * Quels sont les fichiers contenus dans ce répertoire ?
 * Copiez le fichier /etc/passwd dans votre répertoire d’accueil.
 * Deplacez le dans votre sous-répertoire play.
