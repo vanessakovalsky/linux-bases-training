@@ -26,7 +26,7 @@ Cet exercice a pour objectifs :
 
 ## Manipulation de dossiers contenant des liens
 * Créez un répertoire other, et créez dans ce répertoire un fichier de nom ”.f1”.
-* Remontez d’un niveau dans l’arborescence et essayez de supprimer le répertoireother. Que se passe-t’il ?
+* Remontez d’un niveau dans l’arborescence et essayez de supprimer le répertoire other. Que se passe-t’il ?
 * Affichez le contenu du répertoire other. Utilisez l’option-a.
 * Comment arriver à supprimer le répertoire other?
 * Placez vous dans le répertoire play.
