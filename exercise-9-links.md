@@ -18,7 +18,7 @@ Cet exercice a pour objectifs :
 * On se place maintenant dans le répertoire play.
 * Créez dans ce répertoire un fichier toto contenant la phrase ”hello”, en utilisant l’éditeur emacs.
 * Créez un lien symbolique du fichier tata vers le fichier toto.
-* Tapezls -l. Qu’observez-vous ?
+* Tapez `ls -l`. Qu’observez-vous ?
 * En utilisant la commandecat, visualisez le contenu du fichier tata. Qu’observez-vous ?
 * Modifiez le fichier toto en rajoutant le mot ”world” après ”hello”
 * Visualisez le contenu du fichier tata.
