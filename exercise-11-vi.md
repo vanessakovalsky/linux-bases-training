@@ -3,7 +3,7 @@
 Cet exercice a pour objectif de manipuler vi 
 
 # Tutoriel Vim
-* Dans le terminal, lancez la commandevimtutoret laissez-vous guider jusqu’à la fin de laleçon 6. Nous vous recommandons de prendre quelques notes pour pouvoir faire les exercicessuivants. Vous pourrez retrouver la documentation deVimen ligne, mais c’est en anglais...http://vimdoc.sourceforge.net/htmldoc/usr_toc.htmlx
+* Dans le terminal, lancez la commandevimtutoret laissez-vous guider jusqu’à la fin de laleçon 6. Nous vous recommandons de prendre quelques notes pour pouvoir faire les exercicessuivants. Vous pourrez retrouver la documentation deVimen ligne https://www.linuxtricks.fr/wiki/guide-de-sur-vi-utilisation-de-vi 
 
 ## Créer, enregistrer et quitter.
 * Dans un terminal, après avoir vérifié que votre répertoire courant était le répertoire TP3, taper :vi IntroVi.
